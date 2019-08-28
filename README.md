@@ -1,6 +1,6 @@
 # hello-word
 just another repository
-Hi, my dear freands.
+Hi, my dear friends.
 It’s warm out today.
 People say that there is no bad weather.
 At any time of year the weather makes us happy with her gifts. 
